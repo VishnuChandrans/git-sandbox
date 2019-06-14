@@ -1,1 +1,1 @@
-This is another sample
+This is another sample example of git merge and dont know
