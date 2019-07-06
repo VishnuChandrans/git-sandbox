@@ -1,1 +1,5 @@
 Creating for Test purpose
+if(hungry == "Yes")
+print("Eat Now")
+else
+print("Eat Later")
